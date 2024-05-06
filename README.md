@@ -1,16 +1,46 @@
-### Hi there 👋
-
-<!--
-**SaadBarhrouj/SaadBarhrouj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!---
+Created using the README generator
 -->
+
+<p align="center">
+  <img src="https://chatgpt.com/c/7e7c7006-207f-4ae2-9e87-bd3daf459022" alt="Image" />
+</p>
+
+<h1 align="center">Hi there 👋, I'm Saad Barhrouj</h1>
+<h3 align="center">🎓 Computer Engineering student | Passionate about programming and web development | Always eager to learn</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saadbarhrouj&label=Profile%20views&color=0e75b6&style=flat" alt="saadbarhrouj" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadbarhrouj&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saadbarhrouj&show_icons=true&theme=radical" alt="Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadbarhrouj&theme=radical" alt="Streak" />
+</p>
+
+<hr>
+
+<h3 align="left">About Me</h3>
+<p>- 🌱 Currently learning everything I can about programming, including web development, Docker, Linux, Git, and software development</p>
+<p>- 💬 Happy to discuss programming topics</p>
+<p>- 📫 How to reach me: [saad.barhouj2001@gmail.com](mailto:saad.barhouj2001@gmail.com)</p>
+
+<h3 align="left">Connect with me</h3>
+<p>
+  <a href="https://linkedin.com/in/saad-barhrouj-b37270295" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.hackerearth.com/@saad_barhrouj" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools</h3>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="40" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="40" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="40" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="40" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="40" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" height="40" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" width="40" />
+</p>
+
+<hr>
