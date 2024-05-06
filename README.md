@@ -2,19 +2,23 @@
 Created using the README generator
 -->
 
-<p align="center">
-  <img src="https://chatgpt.com/c/7e7c7006-207f-4ae2-9e87-bd3daf459022" alt="Image" />
-</p>
-
 <h1 align="center">Hi there 👋, I'm Saad Barhrouj</h1>
 <h3 align="center">🎓 Computer Engineering student | Passionate about programming and web development | Always eager to learn</h3>
 
 <p align="center">
+  <img src="https://chatgpt.com/c/7e7c7006-207f-4ae2-9e87-bd3daf459022" alt="Image" width="600" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=saadbarhrouj&label=Profile%20views&color=0e75b6&style=flat" alt="saadbarhrouj" />
-  <br>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadbarhrouj&layout=compact&theme=radical" alt="Top Langs" />
   <img src="https://github-readme-stats.vercel.app/api?username=saadbarhrouj&show_icons=true&theme=radical" alt="Stats" />
-  <br>
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadbarhrouj&theme=radical" alt="Streak" />
 </p>
 
