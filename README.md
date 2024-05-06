@@ -6,7 +6,7 @@ Created using the README generator
 <h3 align="center">🎓 Computer Engineering student | Passionate about programming and web development | Always eager to learn</h3>
 
 <p align="center">
-  <img src="https://chatgpt.com/c/7e7c7006-207f-4ae2-9e87-bd3daf459022" alt="Image" width="600" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw1kPGvfwbXol79TYaZJcq9S&ust=1644569071673000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNjA4L-90fUCFQAAAAAdAAAAABAD" alt="Programmer GIF" width="600" />
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@ Created using the README generator
 <h3 align="left">About Me</h3>
 <p>- 🌱 Currently learning everything I can about programming, including web development, Docker, Linux, Git, and software development</p>
 <p>- 💬 Happy to discuss programming topics</p>
-<p>- 📫 How to reach me: [saad.barhouj2001@gmail.com](mailto:saad.barhouj2001@gmail.com)</p>
+<p>- 📫 How to reach me: [saad.barhrouj2001@gmail.com](mailto:saad.barhrouj2001@gmail.com)</p>
 
 <h3 align="left">Connect with me</h3>
 <p>
