@@ -4,22 +4,10 @@ Created using the README generator
 
 <h1 align="center">Hi there 👋, I'm Saad Barhrouj</h1>
 <h3 align="center">🎓 Computer Engineering student | Passionate about programming and web development | Always eager to learn</h3>
+<hr>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" alt="Programmer GIF" width="600" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saadbarhrouj&label=Profile%20views&color=0e75b6&style=flat" alt="saadbarhrouj" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadbarhrouj&layout=compact&theme=radical" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=saadbarhrouj&show_icons=true&theme=radical" alt="Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadbarhrouj&theme=radical" alt="Streak" />
+  <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" alt="Programmer GIF" width="400" />
 </p>
 
 <hr>
@@ -48,3 +36,15 @@ Created using the README generator
 </p>
 
 <hr>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saadbarhrouj&label=Profile%20views&color=0e75b6&style=flat" alt="saadbarhrouj" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadbarhrouj&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saadbarhrouj&show_icons=true&theme=radical" alt="Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadbarhrouj&theme=radical" alt="Streak" />
+</p>
