@@ -6,7 +6,7 @@ Created using the README generator
 <h3 align="center">🎓 Computer Engineering student | Passionate about programming and web development | Always eager to learn</h3>
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw1kPGvfwbXol79TYaZJcq9S&ust=1644569071673000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNjA4L-90fUCFQAAAAAdAAAAABAD" alt="Programmer GIF" width="600" />
+  <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" alt="Programmer GIF" width="600" />
 </p>
 
 <p align="center">
