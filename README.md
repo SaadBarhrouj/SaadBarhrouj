@@ -7,7 +7,7 @@ Created using the README generator
 <hr>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" alt="Programmer GIF" width="400" />
+  <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" alt="Programmer GIF" width="200" height="3200" />
 </p>
 
 <hr>
@@ -16,6 +16,8 @@ Created using the README generator
 <p>- 🌱 Currently learning everything I can about programming, including web development, Docker, Linux, Git, and software development</p>
 <p>- 💬 Happy to discuss programming topics</p>
 <p>- 📫 How to reach me: [saad.barhrouj2001@gmail.com](mailto:saad.barhrouj2001@gmail.com)</p>
+
+<hr>
 
 <h3 align="left">Connect with me</h3>
 <p>
