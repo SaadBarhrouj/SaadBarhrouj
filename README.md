@@ -7,25 +7,30 @@ Created using the README generator
 <hr>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" alt="Programmer GIF" width="200" height="200" />
+  <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" alt="Programmer GIF" width="300" height="300" />
 </p>
 
 <hr>
-
 <h3 align="left">About Me</h3>
+<hr>
+
 <p>- 🌱 Currently learning everything I can about programming, including web development, Docker, Linux, Git, and software development</p>
 <p>- 💬 Happy to discuss programming topics</p>
 <p>- 📫 How to reach me: [saad.barhrouj2001@gmail.com](mailto:saad.barhrouj2001@gmail.com)</p>
 
 <hr>
-
 <h3 align="left">Connect with me</h3>
+<hr>
+
 <p>
   <a href="https://linkedin.com/in/saad-barhrouj-b37270295" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://www.hackerearth.com/@saad_barhrouj" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="40" /></a>
 </p>
 
+<hr>
 <h3 align="left">Languages and Tools</h3>
+<hr>
+
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="40" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="40" width="40" />
