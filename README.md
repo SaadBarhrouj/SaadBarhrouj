@@ -5,7 +5,6 @@ Created using the README generator
 <br>
 <h1 align="center">Hi there 👋, I'm Saad Barhrouj</h1>
 <h3 align="center">🎓 Computer Engineering student | Passionate about programming and web development | Always eager to learn</h3>
-<br>
 <hr>
 <h3 align="center">About Me</h3>
 <hr>
@@ -20,7 +19,7 @@ Created using the README generator
 <h3 align="center">Connect with me</h3>
 <hr>
 
-<palign="center">
+<p align="center">
   <a href="https://linkedin.com/in/saad-barhrouj-b37270295" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://www.hackerearth.com/@saad_barhrouj" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="40" /></a>
 </p>
