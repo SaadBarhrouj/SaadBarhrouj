@@ -2,8 +2,12 @@
 <!---
 Created using the README generator
 -->
+<br>
+<hr>
 <h1 align="center">Hi there 👋, I'm Saad Barhrouj</h1>
+<hr>
 <h3 align="center">🎓 Computer Engineering student | Passionate about programming and web development | Always eager to learn</h3>
+<br>
 <hr>
 <h3 align="center">About Me</h3>
 <hr>
