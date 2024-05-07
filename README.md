@@ -6,19 +6,18 @@ Created using the README generator
 <h1 align="center">Hi there 👋, I'm Saad Barhrouj</h1>
 <h3 align="center">🎓 Computer Engineering student | Passionate about programming and web development | Always eager to learn</h3>
 <hr>
+<hr>
+<h3 align="center">About Me</h3>
+<hr>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" alt="Programmer GIF" width="100" height="100" />
+  <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" alt="Programmer GIF" width="150" height="150" />
 </p>
-<hr>
-<h3 align="left">About Me</h3>
-<hr>
-
 <p>- 🌱 Currently learning everything I can about programming, including web development, Docker, Linux, Git, and software development</p>
 <p>- 💬 Happy to discuss programming topics</p>
 <p>- 📫 How to reach me: [saad.barhrouj2001@gmail.com](mailto:saad.barhrouj2001@gmail.com)</p>
 
 <hr>
-<h3 align="left">Connect with me</h3>
+<h3 align="center">Connect with me</h3>
 <hr>
 
 <p>
@@ -27,7 +26,7 @@ Created using the README generator
 </p>
 
 <hr>
-<h3 align="left">Languages and Tools</h3>
+<h3 align="center">Languages and Tools</h3>
 <hr>
 
 <p>
