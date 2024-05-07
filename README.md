@@ -16,7 +16,7 @@ Created using the README generator
 </p>
 <p>- 🌱 Currently learning everything I can about programming, including web development, Docker, Linux, Git, and software development</p>
 <p>- 💬 Happy to discuss programming topics</p>
-<p>- 📫 How to reach me: saad.barhrouj2001@gmail.com]</p>
+<p>- 📫 How to reach me:<a>saad.barhrouj2001@gmail.com</a></p>
 
 <hr>
 <h3 align="center">Connect with me</h3>
