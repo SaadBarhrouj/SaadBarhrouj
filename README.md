@@ -8,6 +8,10 @@ Created using the README generator
 <hr>
 <h3 align="center">🎓 Computer Engineering student | Passionate about programming and web development | Always eager to learn</h3>
 <br>
+## Mon Portfolio
+
+Découvrez mon travail et mes projets sur mon portfolio : [Saad Barhrouj Portfolio](https://portfolio-saad-barhrouj.netlify.app/)
+
 <hr>
 <h3 align="center">About Me</h3>
 <hr>
