@@ -8,10 +8,12 @@ Created using the README generator
 <hr>
 <h3 align="center">🎓 Computer Engineering student | Passionate about programming and web development | Always eager to learn</h3>
 <br>
-## Mon Portfolio
 
-Découvrez mon travail et mes projets sur mon portfolio : [Saad Barhrouj Portfolio](https://portfolio-saad-barhrouj.netlify.app/)
-
+<hr>
+<h3 align="center">Mon Portfolioe</h3>
+<hr><p align="center">
+  <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" alt="Programmer GIF" width="200" height="200" />
+</p>
 <hr>
 <h3 align="center">About Me</h3>
 <hr>
