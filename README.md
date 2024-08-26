@@ -9,14 +9,15 @@ Created using the README generator
 <h3 align="center">🎓 Computer Engineering student | Passionate about programming and web development | Always eager to learn</h3>
 <br>
 <hr>
-<h3 align="center">Mon Portfolioe</h3>
+<h3 align="center">Mon Portfolio</h3>
 <hr><p align="center">
+  Découvrez mon travail et mes projets sur mon portfolio : [Saad Barhrouj Portfolio](https://portfolio-saad-barhrouj.netlify.app)
+
 </p>
 <hr>
 <h3 align="center">About Me</h3>
 <hr>
 <p align="center">
-Découvrez mon travail et mes projets sur mon portfolio : [Saad Barhrouj Portfolio](https://portfolio-saad-barhrouj.netlify.app/https://ton-portfolio-url.com)
 </p>
 <p>- 🌱 Currently learning everything I can about programming, including web development, Docker, Linux, Git, and software development</p>
 <p>- 💬 Happy to discuss programming topics</p>
