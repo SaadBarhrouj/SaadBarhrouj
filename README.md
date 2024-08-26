@@ -9,8 +9,6 @@ Created using the README generator
 <h3 align="center">🎓 Computer Engineering student | Passionate about programming and web development | Always eager to learn</h3>
 <br>
 <hr>
-
-<hr>
 <h3 align="center">About Me</h3>
 <hr>
 <p align="center">
