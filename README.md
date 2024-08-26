@@ -9,7 +9,7 @@ Created using the README generator
 <h3 align="center">🎓 Computer Engineering student | Passionate about programming and web development | Always eager to learn</h3>
 <br>
 <hr>
-<h3 align="center">Mon Portfolio</h3>
+<h3 align="center">My Portfolio</h3>
 <hr><p align="center">
 Check out my work and projects on my portfolio: [Saad Barhrouj Portfolio](https://portfolio-saad-barhrouj.netlify.app/)
 
