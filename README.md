@@ -18,7 +18,7 @@ Created using the README generator
 <p>- 🌱 Currently learning everything I can about programming, including web development, Docker, Linux, Git, and software development</p>
 <p>- 💬 Happy to discuss programming topics</p>
 <p>- 📫 How to reach me: <a href="mailto:saad.barhrouj2001@gmail.com">saad.barhrouj2001@gmail.com</a></p>
-<p>- Check out my work and projects on my portfolio: [Saad-Barhrouj-Portfolio](https://portfolio-saad-barhrouj.netlify.app/)
+<p>- Check out my work and projects on my portfolio: [here](https://portfolio-saad-barhrouj.netlify.app/)
 </p>
 
 
