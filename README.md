@@ -45,7 +45,6 @@ Created using the README generator
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/laravel.svg" alt="Laravel" height="40" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" height="40" width="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" height="40" width="40" />
- <img src="https://www.crummy.com/software/BeautifulSoup/bs4/doc/_images/6.1.jpg" alt="BeautifulSoup" height="40" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="40" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" width="40" />
 </p>
