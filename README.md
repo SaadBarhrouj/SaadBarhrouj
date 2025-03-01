@@ -14,12 +14,28 @@ Created using the README generator
 <h3 align="center">About Me</h3>
 <hr>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" alt="Programmer GIF" width="200" height="200" />
+  <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" 
+       alt="Programmer GIF" width="200" height="200" />
 </p>
-<p>- 🌱 Currently learning and working with a wide range of technologies, including <strong>Java Spring Boot</strong>, <strong>Laravel</strong>, <strong>Python</strong>, <strong>PL/SQL</strong>, <strong>PHP</strong>, <strong>MongoDB</strong>, <strong>AJAX</strong>, <strong>Git</strong>, and <strong>GitHub</strong>. Also diving into web development, Docker, Linux, and software development best practices.</p>
-<p>- 💬 Happy to discuss programming topics, share knowledge, and collaborate on exciting projects.</p>
-<p>- 📫 How to reach me: <a href="mailto:saad.barhrouj2001@gmail.com">saad.barhrouj2001@gmail.com</a></p>
-<p>- Check out my work and projects on my portfolio: <a href="https://portfolio-saad-barhrouj.netlify.app/" target="_blank">Saad Barhrouj Portfolio</a></p>
+
+### 🚀 About Me  
+- 🌱 **Currently Learning & Working With:**  
+  - **Backend:** PHP/Laravel, Java/Spring Boot, Python  
+  - **Systems & Low-Level Programming:** C/C++  
+  - **Frontend:** AJAX  
+  - **Databases:** MongoDB, PL/SQL  
+  - **Version Control & DevOps:** Git/GitHub, Docker, Linux  
+  - **Best Practices:** Software Development & Web Development Standards  
+
+- 💬 **Let's Talk!**  
+  I love discussing programming topics, sharing knowledge, and collaborating on exciting projects.  
+
+- 📫 **Get in Touch:**  
+  [📧 saad.barhrouj2001@gmail.com](mailto:saad.barhrouj2001@gmail.com)  
+
+- 🌐 **Explore My Work:**  
+  [🔗 Saad Barhrouj Portfolio](https://portfolio-saad-barhrouj.netlify.app/)  
+
 
 <hr>
 <h3 align="center">Connect with me</h3>
