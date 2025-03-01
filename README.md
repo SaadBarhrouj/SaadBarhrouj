@@ -16,8 +16,8 @@ Created using the README generator
 <p align="center">
   <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" alt="Programmer GIF" width="200" height="200" />
 </p>
-<p>- 🌱 Currently learning everything I can about programming, including web development, Docker, Linux, Git, and software development</p>
-<p>- 💬 Happy to discuss programming topics</p>
+<p>- 🌱 Currently learning and working with a wide range of technologies, including <strong>Java Spring Boot</strong>, <strong>Laravel</strong>, <strong>Python</strong>, <strong>PL/SQL</strong>, <strong>PHP</strong>, <strong>MongoDB</strong>, <strong>AJAX</strong>, <strong>Git</strong>, and <strong>GitHub</strong>. Also diving into web development, Docker, Linux, and software development best practices.</p>
+<p>- 💬 Happy to discuss programming topics, share knowledge, and collaborate on exciting projects.</p>
 <p>- 📫 How to reach me: <a href="mailto:saad.barhrouj2001@gmail.com">saad.barhrouj2001@gmail.com</a></p>
 <p>- Check out my work and projects on my portfolio: <a href="https://portfolio-saad-barhrouj.netlify.app/" target="_blank">Saad Barhrouj Portfolio</a></p>
 
