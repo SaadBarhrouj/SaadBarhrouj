@@ -18,7 +18,7 @@ Created using the README generator
        alt="Programmer GIF" width="200" height="200" />
 </p>
 
-### 🚀 About Me  
+
 - 🌱 **Currently Learning & Working With:**  
   - **Backend:** PHP/Laravel, Java/Spring Boot, Python  
   - **Systems & Low-Level Programming:** C/C++  
