@@ -30,10 +30,6 @@ Created using the README generator
 - 💬 **Let's Talk!**  
   I love discussing programming topics, sharing knowledge, and collaborating on exciting projects.  
 
-- 📫 **Get in Touch:**  
-  [📧 saad.barhrouj2001@gmail.com](mailto:saad.barhrouj2001@gmail.com)  
-  [💼 LinkedIn](https://www.linkedin.com/in/saad-barhrouj-b37270295/)  
-
 - 🌐 **Explore My Work:**  
   [🔗 Saad Barhrouj Portfolio](https://portfolio-saad-barhrouj.netlify.app/)  
 
