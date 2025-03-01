@@ -42,11 +42,29 @@ Created using the README generator
 <hr>
 
 <p align="center">
-  <a href="https://linkedin.com/in/saad-barhrouj-b37270295" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://www.hackerearth.com/@saad_barhrouj" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="40" /></a>
-  <a href="mailto:saad.barhrouj2001@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="30" width="40" /></a>
-  <a href="https://portfolio-saad-barhrouj.netlify.app/" target="_blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/domain.png" alt="Website" height="30" width="40" /></a>
+  <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" 
+       alt="Programmer GIF" width="200" height="200" />
 </p>
+
+### 🚀 About Me  
+- 🌱 **Currently Learning & Working With:**  
+  - **Backend:** PHP/Laravel, Java/Spring Boot, Python  
+  - **Systems & Low-Level Programming:** C/C++  
+  - **Frontend:** HTML, CSS, JavaScript, Angular  
+  - **UI Frameworks:** Bootstrap, Tailwind CSS  
+  - **Databases:** MongoDB, PL/SQL  
+  - **Version Control & DevOps:** Git/GitHub, Docker, Linux  
+  - **Best Practices:** Software Development & Web Development Standards  
+
+- 💬 **Let's Talk!**  
+  I love discussing programming topics, sharing knowledge, and collaborating on exciting projects.  
+
+- 📫 **Get in Touch:**  
+  [📧 saad.barhrouj2001@gmail.com](mailto:saad.barhrouj2001@gmail.com)  
+
+- 🌐 **Explore My Work:**  
+  [🔗 Saad Barhrouj Portfolio](https://portfolio-saad-barhrouj.netlify.app/)  
+
 <hr>
 <h3 align="center">Languages and Tools</h3>
 <hr>
