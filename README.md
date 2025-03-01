@@ -45,8 +45,11 @@ Created using the README generator
   <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" 
        alt="Programmer GIF" width="200" height="200" />
 </p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" 
+       alt="Programmer GIF" width="200" height="200" />
+</p>
 
-### 🚀 About Me  
 - 🌱 **Currently Learning & Working With:**  
   - **Backend:** PHP/Laravel, Java/Spring Boot, Python  
   - **Systems & Low-Level Programming:** C/C++  
@@ -61,9 +64,11 @@ Created using the README generator
 
 - 📫 **Get in Touch:**  
   [📧 saad.barhrouj2001@gmail.com](mailto:saad.barhrouj2001@gmail.com)  
+  [💼 LinkedIn](https://www.linkedin.com/in/saad-barhrouj-b37270295/)  
 
 - 🌐 **Explore My Work:**  
   [🔗 Saad Barhrouj Portfolio](https://portfolio-saad-barhrouj.netlify.app/)  
+
 
 <hr>
 <h3 align="center">Languages and Tools</h3>
