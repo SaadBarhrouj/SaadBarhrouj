@@ -6,7 +6,8 @@ Created using the README generator
 <hr>
 <h1 align="center">Hi there 👋, I'm Saad Barhrouj</h1>
 <hr>
-<h3 align="center">🎓 Computer Engineering student | Passionate about programming and web development | Always eager to learn.</h3>
+<h3 align="center">🎓 4th-year Software Engineering Student at ENSA TETOUAN | Full-Stack Developer | DevOps Enthusiast | Passionate about Learning & Innovation</h3>
+
 <br>
 <br>
 <hr>
