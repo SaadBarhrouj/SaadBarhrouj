@@ -13,7 +13,7 @@ Created using the README generator
 <hr>
 <h3 align="center">About Me</h3>
 <hr>
-<<p align="center">
+<p align="center">
   <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" 
        alt="Programmer GIF" width="200" height="200" />
 </p>
