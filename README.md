@@ -1,7 +1,7 @@
 <!-- GitHub README.md -->
 
 <div align="center">
-  <img src="https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966" alt="Saad Barhrouj Banner" width="100%"/>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Saad Barhrouj Banner" width="100%"/>
 </div>
 
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Saad Barhrouj</h1>
@@ -46,8 +46,7 @@
       <td width="80%" align="left">
         <h3>Internship: Web Development & Automation</h3>
         <p><b>Axians Maroc</b> - Casablanca, Morocco (July 2024)</p>
-        <p>During my internship at Axians Maroc in Casablanca, I worked on the project "Automation of web flows and data retrieval from online sources." My role was to develop an innovative solution to automate the collection and analysis of data from various web sources, using technologies such as Python, PHP, MySQL, HTML, CSS, JavaScript, and Bootstrap. I also created a user interface to visualize the collected data in a clear and intuitive way.</p>
-        <p>This experience allowed me to apply my theoretical knowledge in web development and database management, acquired during my Computer Engineering training at ENSA Tétouan. I learned to navigate the technical challenges related to automation and integration of data from various sources. Thanks to the guidance of Mr. Amine Rahho and collaboration with the Axians Maroc team, I was able to strengthen my problem-solving and teamwork skills, while discovering the requirements of the professional world.</p>
+        <p>At Axians Maroc, I developed an innovative automation solution for web data retrieval using Python, PHP, MySQL, and JavaScript. I created an intuitive user interface to visualize collected data and applied my theoretical knowledge from ENSA Tétouan. Working with the Axians team under Mr. Amine Rahho's guidance strengthened my problem-solving skills and exposed me to professional software development practices.</p>
       </td>
     </tr>
   </table>
@@ -78,6 +77,7 @@
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+    <img src="https://img.shields.io/badge/Sockets-00599C?style=for-the-badge&logo=socket.io&logoColor=white" alt="Sockets" />
   </p>
   
   <h3>Database & DevOps</h3>
@@ -88,6 +88,14 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  </p>
+  
+  <h3>Data Science & Machine Learning</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+    <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
+    <img src="https://img.shields.io/badge/Data_Science-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Data Science" />
+    <img src="https://img.shields.io/badge/Design_Patterns-4EAA25?style=for-the-badge&logo=java&logoColor=white" alt="Design Patterns" />
   </p>
 </div>
 
@@ -104,19 +112,19 @@
         <img src="https://img.icons8.com/color/96/000000/source-code.png"/>
         <br />
         <h3>Web Development</h3>
-        <p>Creating responsive and dynamic websites using modern technologies such as HTML, CSS, JavaScript, PHP, Bootstrap, and Tailwind. Tailored solutions to meet your specific needs.</p>
+        <p>Developing modern, responsive websites and applications with cutting-edge technologies like Laravel, Angular, and Tailwind CSS. Custom solutions with design patterns expertise for optimal performance and maintainability.</p>
       </td>
       <td width="33%" align="center">
         <img src="https://img.icons8.com/color/96/000000/merge-git.png"/>
         <br />
         <h3>Programming & Collaboration</h3>
-        <p>Skilled in C programming and advanced in Git and GitHub for version control. I ensure efficient code development and seamless team collaboration.</p>
+        <p>Skilled in Java, C with socket programming, and advanced Git workflows. I ensure efficient code development and seamless team collaboration with clean, maintainable code.</p>
       </td>
       <td width="33%" align="center">
         <img src="https://img.icons8.com/color/96/000000/robot.png"/>
         <br />
         <h3>Web Scraping & Automation</h3>
-        <p>Extracting valuable data from websites efficiently, with experience in automating data collection processes. I'm also exploring DevOps practices to improve automation and deployment.</p>
+        <p>Extracting valuable data from websites efficiently with Python, implementing machine learning for data analysis. Expertise in automating data collection processes and DevOps practices for improved deployment.</p>
       </td>
     </tr>
   </table>
@@ -129,18 +137,26 @@
 </h2>
 
 <div align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saadbarhrouj&repo=OnlineSchoolDocumentRequest&theme=tokyonight&border_color=5D5CDE&bg_color=0D1117&title_color=5D5CDE&text_color=8B949E&icon_color=5D5CDE" alt="Online School Document Request Platform" />
+  <a href="https://github.com/SaadBarhrouj/EnsaDocs">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaadBarhrouj&repo=EnsaDocs&theme=tokyonight&border_color=5D5CDE&bg_color=0D1117&title_color=5D5CDE&text_color=8B949E&icon_color=5D5CDE" alt="EnsaDocs" />
   </a>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saadbarhrouj&repo=MailCleaner&theme=tokyonight&border_color=5D5CDE&bg_color=0D1117&title_color=5D5CDE&text_color=8B949E&icon_color=5D5CDE" alt="MailCleaner Platform" />
+  <a href="https://github.com/SaadBarhrouj/Responsive-Personal-Portfolio-Website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaadBarhrouj&repo=Responsive-Personal-Portfolio-Website&theme=tokyonight&border_color=5D5CDE&bg_color=0D1117&title_color=5D5CDE&text_color=8B949E&icon_color=5D5CDE" alt="Responsive Personal Portfolio Website" />
   </a>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saadbarhrouj&repo=ScrapperTendersMaroc&theme=tokyonight&border_color=5D5CDE&bg_color=0D1117&title_color=5D5CDE&text_color=8B949E&icon_color=5D5CDE" alt="Scrapper Tenders Maroc" />
-  </a>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saadbarhrouj&repo=OnlineLearningPlatform&theme=tokyonight&border_color=5D5CDE&bg_color=0D1117&title_color=5D5CDE&text_color=8B949E&icon_color=5D5CDE" alt="Online Learning Platform" />
-  </a>
+  
+  <!-- Image placeholders for additional projects -->
+  <div class="flex flex-col md:flex-row gap-4 mt-4">
+    <div class="bg-[#0D1117] border border-[#5D5CDE] rounded-lg p-4 w-full md:w-1/2">
+      <h3 class="text-[#5D5CDE] text-lg font-semibold">Data Analysis Tool</h3>
+      <p class="text-[#8B949E]">A Jupyter notebook-based tool for analyzing and visualizing large datasets with Python.</p>
+      <div class="mt-3 text-[#5D5CDE]">Python • Jupyter • Pandas • Machine Learning</div>
+    </div>
+    <div class="bg-[#0D1117] border border-[#5D5CDE] rounded-lg p-4 w-full md:w-1/2">
+      <h3 class="text-[#5D5CDE] text-lg font-semibold">Distributed Computing Project</h3>
+      <p class="text-[#8B949E]">Implementation of socket programming in C and Java for distributed computing applications.</p>
+      <div class="mt-3 text-[#5D5CDE]">C • Java • Sockets • Multithreading</div>
+    </div>
+  </div>
 </div>
 
 <p align="center">
@@ -180,9 +196,12 @@
   <li>🔥 <b>Advanced Java:</b> Spring Boot framework for backend development</li>
   <li>🖥️ <b>Frontend Expertise:</b> Angular for modern, responsive interfaces</li>
   <li>💻 <b>PHP Development:</b> Laravel framework for robust web applications</li>
-  <li>🛠️ <b>DevOps:</b> Docker, CI/CD pipelines, and automation</li>
-  <li>📊 <b>Web Scraping:</b> Data extraction and processing techniques</li>
+  <li>🛠️ <b>DevOps:</b> Docker, Kubernetes, CI/CD pipelines, and automation</li>
+  <li>📊 <b>Web Scraping:</b> Data extraction and processing techniques with Python</li>
   <li>🔍 <b>Database Management:</b> MySQL, MongoDB, and data optimization</li>
+  <li>🧩 <b>Design Patterns:</b> OOP principles and software architecture</li>
+  <li>🌐 <b>Socket Programming:</b> Network applications in C and Java</li>
+  <li>📈 <b>Data Science:</b> Analytics and visualization with Jupyter</li>
 </ul>
 
 <!-- Connect With Me -->
@@ -204,7 +223,11 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/SaadBarhrouj/SaadBarhrouj/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <div align="center">
