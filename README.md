@@ -144,20 +144,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaadBarhrouj&repo=Responsive-Personal-Portfolio-Website&theme=tokyonight&border_color=5D5CDE&bg_color=0D1117&title_color=5D5CDE&text_color=8B949E&icon_color=5D5CDE" alt="Responsive Personal Portfolio Website" />
   </a>
   
-  <!-- Image placeholders for additional projects -->
-  <div class="flex flex-col md:flex-row gap-4 mt-4">
-    <div class="bg-[#0D1117] border border-[#5D5CDE] rounded-lg p-4 w-full md:w-1/2">
-      <h3 class="text-[#5D5CDE] text-lg font-semibold">Data Analysis Tool</h3>
-      <p class="text-[#8B949E]">A Jupyter notebook-based tool for analyzing and visualizing large datasets with Python.</p>
-      <div class="mt-3 text-[#5D5CDE]">Python • Jupyter • Pandas • Machine Learning</div>
-    </div>
-    <div class="bg-[#0D1117] border border-[#5D5CDE] rounded-lg p-4 w-full md:w-1/2">
-      <h3 class="text-[#5D5CDE] text-lg font-semibold">Distributed Computing Project</h3>
-      <p class="text-[#8B949E]">Implementation of socket programming in C and Java for distributed computing applications.</p>
-      <div class="mt-3 text-[#5D5CDE]">C • Java • Sockets • Multithreading</div>
-    </div>
-  </div>
-</div>
+
 
 <p align="center">
   <a href="https://portfolio-saad-barhrouj.netlify.app/">
