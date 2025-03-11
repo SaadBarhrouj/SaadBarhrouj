@@ -7,14 +7,13 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Saad Barhrouj</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=5D5CDE&center=true&vCenter=true&width=500&lines=Software+Engineering+Student+at+ENSA+TETOUAN;Full-Stack+Developer;DevOps+%26+Data+Enthusiast;Always+learning+new+technologies" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=5D5CDE&center=true&vCenter=true&width=500&lines=Software+Engineering+Student+at+ENSA+TETOUAN;Full-Stack+Developer;DevOps+Enthusiast;Web+Development+%26+Automation+Specialist" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/saad-barhrouj-b37270295"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:saad.barhrouj2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://portfolio-saad-barhrouj.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-5D5CDE?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.hackerearth.com/@saad_barhrouj"><img src="https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth"/></a>
 </p>
 
 <p align="center">
@@ -32,8 +31,27 @@
 </p>
 
 <p align="center">
-  Welcome to my GitHub profile! I'm a 4th-year Computer Engineering student passionate about programming and web development. With strong skills in C programming and web scraping, I'm also enthusiastic about DevOps engineering and data technologies. I love tackling new challenges and am constantly expanding my skills to stay ahead in the tech field.
+  I am a passionate and self-driven Software Engineering student at ENSA Tétouan, eager to develop innovative and efficient solutions. I have gained experience with programming languages like C, Java, and PHP, as well as frameworks such as Laravel and Spring Boot. I am also deeply interested in DevOps, web development, and web scraping, areas where I gained valuable hands-on experience during my internship at Axians Maroc.
 </p>
+
+<!-- Experience Section -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30px" height="30px">
+  Professional Experience
+</h2>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="80%" align="left">
+        <h3>Internship: Web Development & Automation</h3>
+        <p><b>Axians Maroc</b> - Casablanca, Morocco (July 2024)</p>
+        <p>During my internship at Axians Maroc in Casablanca, I worked on the project "Automation of web flows and data retrieval from online sources." My role was to develop an innovative solution to automate the collection and analysis of data from various web sources, using technologies such as Python, PHP, MySQL, HTML, CSS, JavaScript, and Bootstrap. I also created a user interface to visualize the collected data in a clear and intuitive way.</p>
+        <p>This experience allowed me to apply my theoretical knowledge in web development and database management, acquired during my Computer Engineering training at ENSA Tétouan. I learned to navigate the technical challenges related to automation and integration of data from various sources. Thanks to the guidance of Mr. Amine Rahho and collaboration with the Axians Maroc team, I was able to strengthen my problem-solving and teamwork skills, while discovering the requirements of the professional world.</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <!-- Tech Stack -->
 <h2 align="center">
@@ -151,25 +169,20 @@
   <img alt="Saad's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=saadbarhrouj&bg_color=141321&color=5D5CDE&line=5D5CDE&point=A9A9FF&area=true&area_color=5D5CDE44" />
 </a>
 
-<!-- Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saadbarhrouj&theme=radical&column=7&no-frame=true" alt="Trophies" />
-</div>
-
-<!-- Currently Learning -->
+<!-- Education & Skills Focus -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/SvckSy7fFviqrq8ClF/giphy.gif" width="30px" height="30px">
-  Currently Learning & Working With
+  Education & Skills Focus
 </h2>
 
 <ul align="center" style="list-style-position: inside;">
- 
-  <li>🖥️ <b>Backend:</b> PHP/Laravel, Java/Spring Boot, Python</li>
-  <li>💻 <b>Systems:</b> C/C++ Programming</li>
-  <li>🎨 <b>Frontend:</b> HTML, CSS, JavaScript, Angular</li>
-  <li>🛠️ <b>Frameworks:</b> Bootstrap, Tailwind CSS</li>
-  <li>🗄️ <b>Databases:</b> MongoDB, PL/SQL</li>
-  <li>📝 <b>Best Practices:</b> Software Development & Web Development Standards</li>
+  <li>🎓 <b>Software Engineering</b> at ENSA Tétouan</li>
+  <li>🔥 <b>Advanced Java:</b> Spring Boot framework for backend development</li>
+  <li>🖥️ <b>Frontend Expertise:</b> Angular for modern, responsive interfaces</li>
+  <li>💻 <b>PHP Development:</b> Laravel framework for robust web applications</li>
+  <li>🛠️ <b>DevOps:</b> Docker, CI/CD pipelines, and automation</li>
+  <li>📊 <b>Web Scraping:</b> Data extraction and processing techniques</li>
+  <li>🔍 <b>Database Management:</b> MySQL, MongoDB, and data optimization</li>
 </ul>
 
 <!-- Connect With Me -->
@@ -187,9 +200,6 @@
   </a>
   <a href="https://portfolio-saad-barhrouj.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
-  </a>
-  <a href="https://www.hackerearth.com/@saad_barhrouj">
-    <img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" alt="HackerEarth"/>
   </a>
 </p>
 
