@@ -1,7 +1,7 @@
 <!-- GitHub README.md -->
 
 <div align="center">
-  <img src="https://github.com/SaadBarhrouj/SaadBarhrouj/blob/main/DOCUMENT%20DE%20SP%C3%89CIFICATION%20FONCTIONNELLE%20(80).png?raw=true" alt="Saad Barhrouj Banner" width="100%"/>
+  <img src="https://github.com/SaadBarhrouj/SaadBarhrouj/blob/main/Saad%20Barhrouj%20Banner.png?raw=true" alt="Saad Barhrouj Banner" width="100%"/>
 </div>
 
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Saad Barhrouj</h1>
