@@ -1,13 +1,13 @@
 <!-- GitHub README.md -->
 
 <div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Saad Barhrouj Banner" width="100%"/>
+  <img src="https://github.com/SaadBarhrouj/SaadBarhrouj/blob/main/DOCUMENT%20DE%20SP%C3%89CIFICATION%20FONCTIONNELLE%20(80).png?raw=true" alt="Saad Barhrouj Banner" width="100%"/>
 </div>
 
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Saad Barhrouj</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=5D5CDE&center=true&vCenter=true&width=500&lines=SSoftware+Engineering+Student+at+ENSA+TETOUAN;Full-Stack+Developer;DevOps+Enthusiast;Web+Development+%26+Automation+Specialist" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=5D5CDE&center=true&vCenter=true&width=500&lines=Software+Engineering+Student+at+ENSA+TETOUAN;Full-Stack+Developer;DevOps+Enthusiast;Web+Development+%26+Automation+Specialist" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -144,8 +144,6 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaadBarhrouj&repo=Responsive-Personal-Portfolio-Website&theme=tokyonight&border_color=5D5CDE&bg_color=0D1117&title_color=5D5CDE&text_color=8B949E&icon_color=5D5CDE" alt="Responsive Personal Portfolio Website" />
   </a>
   
-
-
 <p align="center">
   <a href="https://portfolio-saad-barhrouj.netlify.app/">
     <img src="https://img.shields.io/badge/View%20All%20Projects-5D5CDE?style=for-the-badge&logo=github" alt="View All Projects"/>
