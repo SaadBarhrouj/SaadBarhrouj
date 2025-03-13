@@ -1,7 +1,5 @@
 <!-- GitHub README.md -->
 
-
-
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Saad Barhrouj</h1>
 
 <p align="center">
@@ -144,11 +142,12 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaadBarhrouj&repo=Responsive-Personal-Portfolio-Website&theme=tokyonight&border_color=5D5CDE&bg_color=0D1117&title_color=5D5CDE&text_color=8B949E&icon_color=5D5CDE" alt="Responsive Personal Portfolio Website" />
   </a>
   
-<p align="center">
-  <a href="https://portfolio-saad-barhrouj.netlify.app/">
-    <img src="https://img.shields.io/badge/View%20All%20Projects-5D5CDE?style=for-the-badge&logo=github" alt="View All Projects"/>
-  </a>
-</p>
+  <p align="center">
+    <a href="https://portfolio-saad-barhrouj.netlify.app/">
+      <img src="https://img.shields.io/badge/View%20All%20Projects-5D5CDE?style=for-the-badge&logo=github" alt="View All Projects"/>
+    </a>
+  </p>
+</div>
 
 <!-- GitHub Stats -->
 <h2 align="center">
@@ -160,6 +159,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=saadbarhrouj&show_icons=true&theme=radical&title_color=5D5CDE&icon_color=5D5CDE&border_color=5D5CDE" height="180em" alt="Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadbarhrouj&layout=compact&theme=radical&title_color=5D5CDE&border_color=5D5CDE" height="180em" alt="Top Langs" />
 </div>
+
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saadbarhrouj&label=Profile%20views&color=5D5CDE&style=flat" alt="Profile Views" />
+</p>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadbarhrouj&theme=radical&border=5D5CDE&ring=5D5CDE&fire=5D5CDE&currStreakLabel=5D5CDE&sideLabels=5D5CDE" alt="GitHub Streak" />
