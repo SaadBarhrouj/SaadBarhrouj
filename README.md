@@ -7,7 +7,9 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Saad Barhrouj</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=5D5CDE&center=true&vCenter=true&width=500&lines=Software+Engineering+Student+at+ENSA+TETOUAN;Full-Stack+Developer;DevOps+Enthusiast;Web+Scraping+%26+Automation+Skills" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=5D5CDE&center=true&vCenter=true&width=400&lines=Software+Engineering+Student+at+ENSA+TETOUAN;Full-Stack+Developer;DevOps+Enthusiast;Web+Scraping+%26+Automation+Skills" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
