@@ -7,12 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=5D5CDE&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;at+ENSA+Tétouan;Full-Stack+Developer;DevOps+Enthusiast;Web+Scraping+%26+Automation+Skills" alt="Typing SVG" />
   </a>
 </p>
->
-<p align="center">
-  <a href="https://linkedin.com/in/saad-barhrouj-b37270295"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:saad.barhrouj2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://portfolio-saad-barhrouj.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-5D5CDE?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saadbarhrouj&label=Profile%20views&color=5D5CDE&style=flat" alt="saadbarhrouj" />
@@ -152,17 +147,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadbarhrouj&theme=radical&border=5D5CDE&ring=5D5CDE&fire=5D5CDE&currStreakLabel=5D5CDE&sideLabels=5D5CDE" alt="GitHub Streak" />
 </div>
-
-<!-- Activity Graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="Saad's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=saadbarhrouj&bg_color=141321&color=5D5CDE&line=5D5CDE&point=A9A9FF&area=true&area_color=5D5CDE44" />
-</a>
-
-<!-- Education & Skills Focus -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/SvckSy7fFviqrq8ClF/giphy.gif" width="30px" height="30px">
-  Education & Skills Focus
-</h2>
 
 <!-- Connect With Me -->
 <h2 align="center">
