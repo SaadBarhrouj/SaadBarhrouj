@@ -76,37 +76,6 @@
   </p>
 </div>
 
-<!-- Services Section -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">
-  Services I Offer
-</h2>
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="33%" align="center">
-        <img src="https://img.icons8.com/color/96/000000/source-code.png"/>
-        <br />
-        <h3>Web Development</h3>
-        <p>Developing modern, responsive websites and applications with cutting-edge technologies like Laravel, Angular, and Tailwind CSS. Custom solutions with design patterns expertise for optimal performance and maintainability.</p>
-      </td>
-      <td width="33%" align="center">
-        <img src="https://img.icons8.com/color/96/000000/merge-git.png"/>
-        <br />
-        <h3>Programming & Collaboration</h3>
-        <p>Skilled in Java, C with socket programming, and advanced Git workflows. I ensure efficient code development and seamless team collaboration with clean, maintainable code.</p>
-      </td>
-      <td width="33%" align="center">
-        <img src="https://img.icons8.com/color/96/000000/robot.png"/>
-        <br />
-        <h3>Web Scraping & Automation Skills</h3>
-        <p>Extracting valuable data from websites efficiently with Python, implementing machine learning for data analysis. Expertise in automating data collection processes and DevOps practices for improved deployment.</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
 <!-- Projects Section -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/juua9i2c2fA0AIp7ii/giphy.gif" width="30px" height="30px">
