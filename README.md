@@ -1,16 +1,10 @@
 <!-- GitHub README.md -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5D5CDE&height=300&section=header&text=Saad%20Barhrouj&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20|%20Full-Stack%20Developer&descAlignY=51&descAlign=50" alt="Professional Header" />
+  <img src="Saad Barhrouj Banner.png" alt="Saad Barhrouj Banner" width="100%" />
 </div>
 
-<br/>
-
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Saad Barhrouj</h1>
-
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=5D5CDE&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;at+ENSA+Tétouan;Full-Stack+Developer;React+%26+Angular+Developer;Salesforce+Developer;DevOps+Enthusiast;Web+Scraping+%26+Automation+Skills" alt="Typing SVG" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=saadbarhrouj&label=Profile%20views&color=5D5CDE&style=flat" alt="saadbarhrouj" />
 </p>
 
 ---
@@ -70,17 +64,13 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
-
-### 🛠️ Tools & Salesforce
+  
+### 🧠 Data Science & Machine Learning
 <p>
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
-  <img src="https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Apex" />
-  <img src="https://img.shields.io/badge/Lightning_Web_Components-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="LWC" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Data_Science-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Data Science" />
+  <img src="https://img.shields.io/badge/Design_Patterns-4EAA25?style=for-the-badge&logo=java&logoColor=white" alt="Design Patterns" />
 </p>
 
 </div>
