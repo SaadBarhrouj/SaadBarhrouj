@@ -97,11 +97,6 @@
   </p>
 </div>
 
-<!-- GitHub Stats -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px">
-  GitHub Stats
-</h2>
 <!-- Connect With Me -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
