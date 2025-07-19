@@ -1,13 +1,35 @@
 <!-- GitHub README.md -->
 <div align="center">
-  <img src="Saad Barhrouj Banner.png" alt="Saad Barhrouj Banner" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding Animation" />
 </div>
 
+<div align="center">
+  <h1 style="color: #5D5CDE; font-size: 3em; margin: 0; text-shadow: 2px 2px 4px rgba(93, 92, 222, 0.3);">
+    🚀 SAAD BARHROUJ 🚀
+  </h1>
+  <h3 style="color: #666; margin: 10px 0; font-style: italic;">
+    💻 Software Engineering Student | 🌟 Full-Stack Developer | ⚡ Salesforce Expert
+  </h3>
+  <div style="background: linear-gradient(90deg, #5D5CDE, #8B5CF6, #5D5CDE); height: 3px; width: 400px; border-radius: 2px; margin: 20px auto;"></div>
+</div>
+
+<br/>
+
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Saad Barhrouj</h1>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saadbarhrouj&label=Profile%20views&color=5D5CDE&style=flat" alt="saadbarhrouj" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=5D5CDE&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;at+ENSA+Tétouan;Full-Stack+Developer;React+%26+Angular+Developer;Salesforce+Developer;DevOps+Enthusiast;Web+Scraping+%26+Automation+Skills" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
+
+<!-- About Me Section -->
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="30px" height="30px">
+  About Me
+</h2>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" alt="Programmer GIF" width="200" height="200" />
@@ -58,13 +80,17 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
-  
-### 🧠 Data Science & Machine Learning
+
+### 🛠️ Tools & Salesforce
 <p>
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
+  <img src="https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Apex" />
+  <img src="https://img.shields.io/badge/Lightning_Web_Components-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="LWC" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Data_Science-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Data Science" />
-  <img src="https://img.shields.io/badge/Design_Patterns-4EAA25?style=for-the-badge&logo=java&logoColor=white" alt="Design Patterns" />
 </p>
 
 </div>
