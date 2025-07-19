@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-  4th-year Computer Engineering student at ENSA Tétouan, passionate about full-stack development and building modern software solutions. I am currently focusing on the Salesforce ecosystem, actively developing my skills in Apex, Lightning Web Components (LWC), and Flows. Open to collaboration and new challenges.
+  4th-year Computer Engineering student at ENSA Tétouan, passionate about full-stack development and building modern software solutions.   I am currently focusing on the Salesforce ecosystem, actively developing my skills in Apex, Lightning Web Components (LWC), and Flows. Open to collaboration and new challenges.
 </p>
 
 
