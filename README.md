@@ -164,19 +164,6 @@
   Education & Skills Focus
 </h2>
 
-<ul align="center" style="list-style-position: inside;">
-  <li>🎓 <b>Software Engineering</b> at ENSA Tétouan</li>
-  <li>🔥 <b>Advanced Java:</b> Spring Boot framework for backend development</li>
-  <li>🖥️ <b>Frontend Expertise:</b> Angular for modern, responsive interfaces</li>
-  <li>💻 <b>PHP Development:</b> Laravel framework for robust web applications</li>
-  <li>🛠️ <b>DevOps:</b> Docker, Kubernetes, CI/CD pipelines, and automation</li>
-  <li>📊 <b>Web Scraping:</b> Data extraction and processing techniques with Python</li>
-  <li>🔍 <b>Database Management:</b> MySQL, MongoDB, and data optimization</li>
-  <li>🧩 <b>Design Patterns:</b> OOP principles and software architecture</li>
-  <li>🌐 <b>Socket Programming:</b> Network applications in C and Java</li>
-  <li>📈 <b>Data Science:</b> Analytics and visualization with Jupyter</li>
-</ul>
-
 <!-- Connect With Me -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
@@ -195,13 +182,6 @@
   </a>
 </p>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
