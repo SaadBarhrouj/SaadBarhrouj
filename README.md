@@ -40,26 +40,10 @@
 </p>
 
 <p align="center">
-  I am a passionate and self-driven Software Engineering student at ENSA Tétouan, eager to develop innovative and efficient solutions. I have gained experience with programming languages like C, Java, and PHP, as well as frameworks such as Laravel and Spring Boot. I am also deeply interested in DevOps, web development, and web scraping, areas where I gained valuable hands-on experience during my internship at Axians Maroc.
+  4th-year Computer Engineering student at ENSA Tétouan, passionate about full-stack development and building modern software solutions. I am currently focusing on the Salesforce ecosystem, actively developing my skills in Apex, Lightning Web Components (LWC), and Flows. Open to collaboration and new challenges.
 </p>
 
-<!-- Experience Section -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30px" height="30px">
-  Professional Experience
-</h2>
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="80%" align="left">
-        <h3>Internship: Web Development & Automation</h3>
-        <p><b>Axians Maroc</b> - Casablanca, Morocco (July 2024)</p>
-        <p>At Axians Maroc, I developed an innovative automation solution for web data retrieval using Python, PHP, MySQL, and JavaScript. I created an intuitive user interface to visualize collected data and applied my theoretical knowledge from ENSA Tétouan. Working with the Axians team under Mr. Amine Rahho's guidance strengthened my problem-solving skills and exposed me to professional software development practices.</p>
-      </td>
-    </tr>
-  </table>
-</div>
 
 <!-- Tech Stack -->
 <h2 align="center">
