@@ -5,14 +5,6 @@
 
 <br/>
 
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Saad Barhrouj</h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=5D5CDE&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;at+ENSA+Tétouan;Full-Stack+Developer;React+%26+Angular+Developer;DevOps+Enthusiast;Web+Scraping+%26+Automation+Skills" alt="Typing SVG" />
-  </a>
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saadbarhrouj&label=Profile%20views&color=5D5CDE&style=flat" alt="saadbarhrouj" />
 </p>
