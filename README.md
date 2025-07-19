@@ -21,7 +21,7 @@
 
 ---
 
-## 📫 Contact
+## 📞 Contact
 
 <div align="center">
   <a href="https://linkedin.com/in/saad-barhrouj-b37270295">
