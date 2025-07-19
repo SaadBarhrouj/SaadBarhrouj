@@ -7,18 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=5D5CDE&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;at+ENSA+Tétouan;Full-Stack+Developer;DevOps+Enthusiast;Web+Scraping+%26+Automation+Skills" alt="Typing SVG" />
   </a>
 </p>
-<p align="center">
-   <img src="https://komarev.com/ghpvc/?username=saadbarhrouj&label=Profile%20views&color=0e75b6&style=flat" alt="saadbarhrouj" />
- </p>
- 
- <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadbarhrouj&layout=compact&theme=radical" alt="Top Langs" />
-   <img src="https://github-readme-stats.vercel.app/api?username=saadbarhrouj&show_icons=true&theme=radical" alt="Stats" />
- </p>
- 
- <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadbarhrouj&theme=radical" alt="Streak" />
- </p>
+>
 <p align="center">
   <a href="https://linkedin.com/in/saad-barhrouj-b37270295"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:saad.barhrouj2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
