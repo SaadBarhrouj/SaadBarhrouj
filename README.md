@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="Saad Barhrouj Banner.png" alt="Saad Barhrouj Banner" width="100%" />
-</div>
-
 <h1 align="center">Saad Barhrouj</h1>
 
 <p align="center">
