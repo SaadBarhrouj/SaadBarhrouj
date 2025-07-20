@@ -25,7 +25,6 @@
 ## ☁️ Salesforce Ecosystem
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
   <img src="https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Apex" />
   <img src="https://img.shields.io/badge/Lightning_Web_Components-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="LWC" />
   <img src="https://img.shields.io/badge/Salesforce_Flows-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Flows" />
