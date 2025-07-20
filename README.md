@@ -33,15 +33,6 @@
   <img src="https://img.shields.io/badge/Lightning_Platform-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Lightning Platform" />
 </div>
 
-<p align="center">
-  <em>Actively developing expertise in Salesforce development with hands-on experience in:</em><br>
-  • <strong>Apex</strong> - Server-side programming and business logic<br>
-  • <strong>Lightning Web Components (LWC)</strong> - Modern UI framework development<br>
-  • <strong>Flows</strong> - Declarative automation and process builder<br>
-  • <strong>SOQL & SOSL</strong> - Database queries and search<br>
-  • <strong>Lightning Platform</strong> - Custom application development
-</p>
-
 ---
 
 ## 📞 Contact
