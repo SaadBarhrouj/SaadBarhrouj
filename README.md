@@ -1,7 +1,7 @@
 <h1 align="center">Saad Barhrouj</h1>
 
 <p align="center">
-  4th-year Computer Engineering student at ENSA Tétouan, passionate about full-stack development. Currently focusing on the <strong>Salesforce ecosystem</strong> (Apex, LWC, Flows). Open to collaboration.
+  4th-year Computer Engineering student at ENSA Tétouan, passionate about full-stack development and building modern software solutions. Currently focusing on the <strong>Salesforce ecosystem</strong> (Apex, LWC, Flows). Open to collaboration and new challenges.
 </p>
 
 ---
